@@ -89,7 +89,10 @@ class N2ncloudCommander:
             "update_config - Update platform configuration",
             "export_logs - Export security logs",
             "import_rules - Import custom security rules",
-            "backup_config - Backup current configuration"
+            "backup_config - Backup current configuration",
+            "performance_monitor - Start performance monitoring",
+            "system_update - Check and apply system updates",
+            "maintenance_mode - Enter maintenance mode"
         ]
         
         for i, command in enumerate(management_commands, 1):
