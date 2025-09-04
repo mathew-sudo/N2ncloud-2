@@ -1,10 +1,11 @@
 {
- "workbench.colorCustomizations": {
-  "activityBar.background": "#162C57",
-  "titleBar.activeBackground": "#1F3D7A",
-  "titleBar.activeForeground": "#FBFCFE"
- },
- "python-envs.defaultEnvManager": "ms-python.python:conda",
- "python-envs.defaultPackageManager": "ms-python.python:conda",
- "python-envs.pythonProjects": []
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#162C57",
+        "titleBar.activeBackground": "#1F3D7A",
+        "titleBar.activeForeground": "#FBFCFE"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": [],
+    "window.title": "N2ncloud 2"
 }
